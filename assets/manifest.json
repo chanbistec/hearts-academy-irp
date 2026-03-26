@@ -1,1 +1,338 @@
-{}
+{
+  "teaser-problem_linkedin.png": {
+    "post": "teaser-problem",
+    "platform": "linkedin",
+    "phase": "teaser",
+    "ratio": "1:1",
+    "size_kb": 857,
+    "path": "assets/generated/teaser/teaser-problem_linkedin.png"
+  },
+  "teaser-problem_instagram-story.png": {
+    "post": "teaser-problem",
+    "platform": "instagram-story",
+    "phase": "teaser",
+    "ratio": "9:16",
+    "size_kb": 957,
+    "path": "assets/generated/teaser/teaser-problem_instagram-story.png"
+  },
+  "teaser-coming-soon_instagram-story.png": {
+    "post": "teaser-coming-soon",
+    "platform": "instagram-story",
+    "phase": "teaser",
+    "ratio": "9:16",
+    "size_kb": 693,
+    "path": "assets/generated/teaser/teaser-coming-soon_instagram-story.png"
+  },
+  "teaser-coming-soon_linkedin.png": {
+    "post": "teaser-coming-soon",
+    "platform": "linkedin",
+    "phase": "teaser",
+    "ratio": "1:1",
+    "size_kb": 1222,
+    "path": "assets/generated/teaser/teaser-coming-soon_linkedin.png"
+  },
+  "teaser-poll_linkedin.png": {
+    "post": "teaser-poll",
+    "platform": "linkedin",
+    "phase": "teaser",
+    "ratio": "1:1",
+    "size_kb": 1218,
+    "path": "assets/generated/teaser/teaser-poll_linkedin.png"
+  },
+  "launch-day_linkedin.png": {
+    "post": "launch-day",
+    "platform": "linkedin",
+    "phase": "launch",
+    "ratio": "1:1",
+    "size_kb": 961,
+    "path": "assets/generated/launch/launch-day_linkedin.png"
+  },
+  "launch-day_instagram-feed.png": {
+    "post": "launch-day",
+    "platform": "instagram-feed",
+    "phase": "launch",
+    "ratio": "1:1",
+    "size_kb": 1003,
+    "path": "assets/generated/launch/launch-day_instagram-feed.png"
+  },
+  "launch-day_instagram-carousel.png": {
+    "post": "launch-day",
+    "platform": "instagram-carousel",
+    "phase": "launch",
+    "ratio": "1:1",
+    "size_kb": 1014,
+    "path": "assets/generated/launch/launch-day_instagram-carousel.png"
+  },
+  "launch-day_facebook.png": {
+    "post": "launch-day",
+    "platform": "facebook",
+    "phase": "launch",
+    "ratio": "16:9",
+    "size_kb": 1157,
+    "path": "assets/generated/launch/launch-day_facebook.png"
+  },
+  "launch-day_twitter.png": {
+    "post": "launch-day",
+    "platform": "twitter",
+    "phase": "launch",
+    "ratio": "16:9",
+    "size_kb": 1169,
+    "path": "assets/generated/launch/launch-day_twitter.png"
+  },
+  "launch-day_tiktok.png": {
+    "post": "launch-day",
+    "platform": "tiktok",
+    "phase": "launch",
+    "ratio": "9:16",
+    "size_kb": 1240,
+    "path": "assets/generated/launch/launch-day_tiktok.png"
+  },
+  "launch-pillars_linkedin.png": {
+    "post": "launch-pillars",
+    "platform": "linkedin",
+    "phase": "launch",
+    "ratio": "1:1",
+    "size_kb": 1003,
+    "path": "assets/generated/launch/launch-pillars_linkedin.png"
+  },
+  "launch-pillars_instagram-carousel.png": {
+    "post": "launch-pillars",
+    "platform": "instagram-carousel",
+    "phase": "launch",
+    "ratio": "1:1",
+    "size_kb": 1118,
+    "path": "assets/generated/launch/launch-pillars_instagram-carousel.png"
+  },
+  "launch-ai_linkedin.png": {
+    "post": "launch-ai",
+    "platform": "linkedin",
+    "phase": "launch",
+    "ratio": "1:1",
+    "size_kb": 1266,
+    "path": "assets/generated/launch/launch-ai_linkedin.png"
+  },
+  "launch-ai_twitter.png": {
+    "post": "launch-ai",
+    "platform": "twitter",
+    "phase": "launch",
+    "ratio": "16:9",
+    "size_kb": 1450,
+    "path": "assets/generated/launch/launch-ai_twitter.png"
+  },
+  "launch-ai_tiktok.png": {
+    "post": "launch-ai",
+    "platform": "tiktok",
+    "phase": "launch",
+    "ratio": "9:16",
+    "size_kb": 1061,
+    "path": "assets/generated/launch/launch-ai_tiktok.png"
+  },
+  "launch-testimonial_linkedin.png": {
+    "post": "launch-testimonial",
+    "platform": "linkedin",
+    "phase": "launch",
+    "ratio": "1:1",
+    "size_kb": 1007,
+    "path": "assets/generated/launch/launch-testimonial_linkedin.png"
+  },
+  "launch-testimonial_instagram-feed.png": {
+    "post": "launch-testimonial",
+    "platform": "instagram-feed",
+    "phase": "launch",
+    "ratio": "1:1",
+    "size_kb": 1234,
+    "path": "assets/generated/launch/launch-testimonial_instagram-feed.png"
+  },
+  "launch-testimonial_facebook.png": {
+    "post": "launch-testimonial",
+    "platform": "facebook",
+    "phase": "launch",
+    "ratio": "16:9",
+    "size_kb": 1157,
+    "path": "assets/generated/launch/launch-testimonial_facebook.png"
+  },
+  "launch-overview_instagram-story.png": {
+    "post": "launch-overview",
+    "platform": "instagram-story",
+    "phase": "launch",
+    "ratio": "9:16",
+    "size_kb": 692,
+    "path": "assets/generated/launch/launch-overview_instagram-story.png"
+  },
+  "deep-phases_linkedin.png": {
+    "post": "deep-phases",
+    "platform": "linkedin",
+    "phase": "deep-dive",
+    "ratio": "1:1",
+    "size_kb": 835,
+    "path": "assets/generated/deep-dive/deep-phases_linkedin.png"
+  },
+  "deep-phases_instagram-carousel.png": {
+    "post": "deep-phases",
+    "platform": "instagram-carousel",
+    "phase": "deep-dive",
+    "ratio": "1:1",
+    "size_kb": 745,
+    "path": "assets/generated/deep-dive/deep-phases_instagram-carousel.png"
+  },
+  "deep-rewards_linkedin.png": {
+    "post": "deep-rewards",
+    "platform": "linkedin",
+    "phase": "deep-dive",
+    "ratio": "1:1",
+    "size_kb": 1493,
+    "path": "assets/generated/deep-dive/deep-rewards_linkedin.png"
+  },
+  "deep-rewards_twitter.png": {
+    "post": "deep-rewards",
+    "platform": "twitter",
+    "phase": "deep-dive",
+    "ratio": "16:9",
+    "size_kb": 1261,
+    "path": "assets/generated/deep-dive/deep-rewards_twitter.png"
+  },
+  "deep-context-eng_linkedin.png": {
+    "post": "deep-context-eng",
+    "platform": "linkedin",
+    "phase": "deep-dive",
+    "ratio": "1:1",
+    "size_kb": 970,
+    "path": "assets/generated/deep-dive/deep-context-eng_linkedin.png"
+  },
+  "deep-context-eng_tiktok.png": {
+    "post": "deep-context-eng",
+    "platform": "tiktok",
+    "phase": "deep-dive",
+    "ratio": "9:16",
+    "size_kb": 1235,
+    "path": "assets/generated/deep-dive/deep-context-eng_tiktok.png"
+  },
+  "deep-faq_linkedin.png": {
+    "post": "deep-faq",
+    "platform": "linkedin",
+    "phase": "deep-dive",
+    "ratio": "1:1",
+    "size_kb": 1187,
+    "path": "assets/generated/deep-dive/deep-faq_linkedin.png"
+  },
+  "deep-faq_instagram-story.png": {
+    "post": "deep-faq",
+    "platform": "instagram-story",
+    "phase": "deep-dive",
+    "ratio": "9:16",
+    "size_kb": 1205,
+    "path": "assets/generated/deep-dive/deep-faq_instagram-story.png"
+  },
+  "deep-softskills_linkedin.png": {
+    "post": "deep-softskills",
+    "platform": "linkedin",
+    "phase": "deep-dive",
+    "ratio": "1:1",
+    "size_kb": 1153,
+    "path": "assets/generated/deep-dive/deep-softskills_linkedin.png"
+  },
+  "deep-softskills_facebook.png": {
+    "post": "deep-softskills",
+    "platform": "facebook",
+    "phase": "deep-dive",
+    "ratio": "16:9",
+    "size_kb": 1281,
+    "path": "assets/generated/deep-dive/deep-softskills_facebook.png"
+  },
+  "urgency-oneweek_linkedin.png": {
+    "post": "urgency-oneweek",
+    "platform": "linkedin",
+    "phase": "urgency",
+    "ratio": "1:1",
+    "size_kb": 1686,
+    "path": "assets/generated/urgency/urgency-oneweek_linkedin.png"
+  },
+  "urgency-oneweek_instagram-story.png": {
+    "post": "urgency-oneweek",
+    "platform": "instagram-story",
+    "phase": "urgency",
+    "ratio": "9:16",
+    "size_kb": 758,
+    "path": "assets/generated/urgency/urgency-oneweek_instagram-story.png"
+  },
+  "urgency-oneweek_facebook.png": {
+    "post": "urgency-oneweek",
+    "platform": "facebook",
+    "phase": "urgency",
+    "ratio": "16:9",
+    "size_kb": 1087,
+    "path": "assets/generated/urgency/urgency-oneweek_facebook.png"
+  },
+  "urgency-oneweek_twitter.png": {
+    "post": "urgency-oneweek",
+    "platform": "twitter",
+    "phase": "urgency",
+    "ratio": "16:9",
+    "size_kb": 1371,
+    "path": "assets/generated/urgency/urgency-oneweek_twitter.png"
+  },
+  "urgency-outcomes_linkedin.png": {
+    "post": "urgency-outcomes",
+    "platform": "linkedin",
+    "phase": "urgency",
+    "ratio": "1:1",
+    "size_kb": 672,
+    "path": "assets/generated/urgency/urgency-outcomes_linkedin.png"
+  },
+  "urgency-outcomes_tiktok.png": {
+    "post": "urgency-outcomes",
+    "platform": "tiktok",
+    "phase": "urgency",
+    "ratio": "9:16",
+    "size_kb": 1446,
+    "path": "assets/generated/urgency/urgency-outcomes_tiktok.png"
+  },
+  "urgency-final_linkedin.png": {
+    "post": "urgency-final",
+    "platform": "linkedin",
+    "phase": "urgency",
+    "ratio": "1:1",
+    "size_kb": 1232,
+    "path": "assets/generated/urgency/urgency-final_linkedin.png"
+  },
+  "urgency-final_instagram-feed.png": {
+    "post": "urgency-final",
+    "platform": "instagram-feed",
+    "phase": "urgency",
+    "ratio": "1:1",
+    "size_kb": 650,
+    "path": "assets/generated/urgency/urgency-final_instagram-feed.png"
+  },
+  "urgency-final_instagram-story.png": {
+    "post": "urgency-final",
+    "platform": "instagram-story",
+    "phase": "urgency",
+    "ratio": "9:16",
+    "size_kb": 1246,
+    "path": "assets/generated/urgency/urgency-final_instagram-story.png"
+  },
+  "urgency-final_facebook.png": {
+    "post": "urgency-final",
+    "platform": "facebook",
+    "phase": "urgency",
+    "ratio": "16:9",
+    "size_kb": 1510,
+    "path": "assets/generated/urgency/urgency-final_facebook.png"
+  },
+  "urgency-final_twitter.png": {
+    "post": "urgency-final",
+    "platform": "twitter",
+    "phase": "urgency",
+    "ratio": "16:9",
+    "size_kb": 1153,
+    "path": "assets/generated/urgency/urgency-final_twitter.png"
+  },
+  "urgency-final_tiktok.png": {
+    "post": "urgency-final",
+    "platform": "tiktok",
+    "phase": "urgency",
+    "ratio": "9:16",
+    "size_kb": 1282,
+    "path": "assets/generated/urgency/urgency-final_tiktok.png"
+  }
+}

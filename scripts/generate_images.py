@@ -12,6 +12,7 @@ Usage:
 import os
 import sys
 import json
+import time
 import argparse
 from pathlib import Path
 from google import genai
@@ -246,6 +247,7 @@ def main():
     generated = 0
     skipped = 0
     errors = 0
+    request_count = 0  # Track requests for rate limiting
 
     for post_id, spec in IMAGE_SPECS.items():
         # Filter by phase
@@ -276,6 +278,13 @@ def main():
                 continue
 
             output_path.parent.mkdir(parents=True, exist_ok=True)
+
+            # Rate limit: 10 requests per minute for Imagen 4
+            request_count += 1
+            if request_count > 1 and request_count % 9 == 0:
+                print(f"  ⏳ Rate limit pause (60s)...")
+                time.sleep(60)
+
             print(f"  🎨 Generating: {filename} ({ratio})...")
 
             try:
